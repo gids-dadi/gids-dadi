@@ -1,21 +1,22 @@
 ### Hi there 👋
 
-
+<!--
 **gids-dadi/gids-dadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on MERN Project
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 
-<!--
+
 ### Hi! 👋 I'm Dadi Gideon - A full-stack Web Developer
 <hr />
 <br/>
@@ -27,4 +28,4 @@ Here are some ideas to get you started:
   funFacts:'I was a teacher, if you employed me to teach your kids, trust me I will add coding without any extra charges.' <br/>
  if interested in further discussion
   'Would like to respond to your call'<br/>
-  -->
+  
