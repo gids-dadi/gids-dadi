@@ -1,7 +1,7 @@
 ### Hi there 👋👋 I'm  Gideon Dadi - A full-stack Web Developer
 
 <hr />
-- 💻 JavaScript, React, Redux, Ruby on Rails, Bootstrap, TailwindCSS, Nodejs <br/>
+- 💻 JavaScript, React, Redux, Node/Expressjs, Ruby on Rails, Bootstrap, TailwindCSS, Nodejs <br/>
 - 🔭 I’m currently working on MERN Projects <br/>
 - 🌱 I’m currently learning TypeScript <br/>
 - 👯 I’m looking to collaborate on Ruby on Rails <br/>
