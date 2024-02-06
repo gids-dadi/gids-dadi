@@ -1,4 +1,4 @@
-### Hi there! 👋👋 I'm  Gideon Dadi - A Full-Stack Web Developer
+### Hi there! 👋👋 I'm  <a href="https://gideondadi.netlify.app/">Gideon Dadi </a> - A Full-Stack Web Developer
 
 <hr />
 - 💻 JavaScript, React, NextJs, Redux, Nodejs/Expressjs, Ruby on Rails, GraphQL, Bootstrap, TailwindCSS<br/>
